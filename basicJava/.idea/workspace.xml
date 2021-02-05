@@ -5,10 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a13db1a-3205-4e64-b342-f5f1e45ba798" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/core/java/basic/overrideOroverwrite/OverloadExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/core/java/basic/reflect/ReflectExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/core/java/basic/reflect/ClassDeclarationSpy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/core/java/basic/reflect/ClassSpy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/core/java/basic/reflect/Fields/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/core/java/basic/reflect/Fields/FieldModifierSpy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/core/java/basic/reflect/Fields/FieldSpy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/core/java/basic/reflect/FieldsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/core/java/basic/reflect/constructors/ConsoleCharset.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/core/java/basic/reflect/constructors/ConstructorAccess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/core/java/basic/reflect/constructors/ConstructorSift.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/core/java/basic/reflect/constructors/RestoreAliases.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/core/java/basic/reflect/methods/Deet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/core/java/basic/reflect/methods/InvokeMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/core/java/basic/reflect/methods/MethodModifierSpy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/core/java/basic/reflect/methods/MethodParameterSpy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/core/java/basic/reflect/methods/MethodSpy.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/core/java/basic/overrideOroverwrite/ParentClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/core/java/basic/overrideOroverwrite/ParentClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/core/java/basic/reflect/ReflectExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/core/java/basic/reflect/ReflectExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/core/java/basic/overrideOroverwrite/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/core/java/basic/overrideOroverwrite/A.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/core/java/basic/overrideOroverwrite/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/core/java/basic/overrideOroverwrite/B.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/core/java/basic/overrideOroverwrite/C.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/core/java/basic/overrideOroverwrite/C.class" afterDir="false" />
@@ -54,13 +67,13 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager" selected="Application.TestABCD">
-    <configuration name="DeepCloneExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="core.java.basic.DeepCloneExample" />
+  <component name="RunManager" selected="Application.FieldSpy (1)">
+    <configuration name="ClassDeclarationSpy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="core.java.basic.reflect.ClassDeclarationSpy" />
       <module name="end_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="core.java.basic.*" />
+          <option name="PATTERN" value="core.java.basic.reflect.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ImplClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="core.java.basic.abstractAndInterface.ImplClass" />
+    <configuration name="ClassSpy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="core.java.basic.reflect.ClassSpy" />
       <module name="end_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="core.java.basic.abstractAndInterface.*" />
+          <option name="PATTERN" value="core.java.basic.reflect.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShallowCloneExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="core.java.basic.ShallowCloneExample" />
+    <configuration name="FieldSpy (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="core.java.basic.reflect.Fields.FieldSpy" />
       <module name="end_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="core.java.basic.*" />
+          <option name="PATTERN" value="core.java.basic.reflect.Fields.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="core.java.basic.abstractAndInterface.Test" />
+    <configuration name="FieldSpy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="core.java.basic.reflect.FieldSpy" />
       <module name="end_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="core.java.basic.abstractAndInterface.*" />
+          <option name="PATTERN" value="core.java.basic.reflect.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestABCD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="core.java.basic.overrideOroverwrite.TestABCD" />
+    <configuration name="ReflectExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="core.java.basic.reflect.ReflectExample" />
       <module name="end_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="core.java.basic.overrideOroverwrite.*" />
+          <option name="PATTERN" value="core.java.basic.reflect.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestABCD" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.ImplClass" />
-        <item itemvalue="Application.DeepCloneExample" />
-        <item itemvalue="Application.ShallowCloneExample" />
+        <item itemvalue="Application.FieldSpy (1)" />
+        <item itemvalue="Application.FieldSpy" />
+        <item itemvalue="Application.ClassSpy" />
+        <item itemvalue="Application.ClassDeclarationSpy" />
+        <item itemvalue="Application.ReflectExample" />
       </list>
     </recent_temporary>
   </component>
@@ -154,22 +167,22 @@
       <screen x="0" y="25" width="1440" height="875" />
     </state>
     <state x="665" y="222" key="#com.intellij.ide.util.MemberChooser/0.25.1440.875@0.25.1440.875" timestamp="1612472642632" />
-    <state width="1247" height="237" key="GridCell.Tab.0.bottom" timestamp="1612539410236">
+    <state width="1248" height="268" key="GridCell.Tab.0.bottom" timestamp="1612558220158">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
-    <state width="1247" height="237" key="GridCell.Tab.0.bottom/0.25.1440.875@0.25.1440.875" timestamp="1612539410236" />
-    <state width="1247" height="237" key="GridCell.Tab.0.center" timestamp="1612539410233">
+    <state width="1248" height="268" key="GridCell.Tab.0.bottom/0.25.1440.875@0.25.1440.875" timestamp="1612558220158" />
+    <state width="1248" height="268" key="GridCell.Tab.0.center" timestamp="1612558220155">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
-    <state width="1247" height="237" key="GridCell.Tab.0.center/0.25.1440.875@0.25.1440.875" timestamp="1612539410233" />
-    <state width="1247" height="237" key="GridCell.Tab.0.left" timestamp="1612539410231">
+    <state width="1248" height="268" key="GridCell.Tab.0.center/0.25.1440.875@0.25.1440.875" timestamp="1612558220155" />
+    <state width="1248" height="268" key="GridCell.Tab.0.left" timestamp="1612558220153">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
-    <state width="1247" height="237" key="GridCell.Tab.0.left/0.25.1440.875@0.25.1440.875" timestamp="1612539410230" />
-    <state width="1247" height="237" key="GridCell.Tab.0.right" timestamp="1612539410235">
+    <state width="1248" height="268" key="GridCell.Tab.0.left/0.25.1440.875@0.25.1440.875" timestamp="1612558220153" />
+    <state width="1248" height="268" key="GridCell.Tab.0.right" timestamp="1612558220156">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
-    <state width="1247" height="237" key="GridCell.Tab.0.right/0.25.1440.875@0.25.1440.875" timestamp="1612539410235" />
+    <state width="1248" height="268" key="GridCell.Tab.0.right/0.25.1440.875@0.25.1440.875" timestamp="1612558220156" />
     <state x="452" y="201" key="IDE.errors.dialog" timestamp="1612447208144">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
@@ -178,10 +191,14 @@
       <screen x="0" y="25" width="1440" height="875" />
     </state>
     <state x="207" y="98" key="SettingsEditor/0.25.1440.875@0.25.1440.875" timestamp="1612473945936" />
-    <state x="581" y="185" width="670" height="676" key="search.everywhere.popup" timestamp="1612534689737">
+    <state x="590" y="196" width="540" height="524" key="StructurePopup" timestamp="1612552712916">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
-    <state x="581" y="185" width="670" height="676" key="search.everywhere.popup/0.25.1440.875@0.25.1440.875" timestamp="1612534689737" />
+    <state x="590" y="196" width="540" height="524" key="StructurePopup/0.25.1440.875@0.25.1440.875" timestamp="1612552712916" />
+    <state x="581" y="185" width="670" height="676" key="search.everywhere.popup" timestamp="1612552649732">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="581" y="185" width="670" height="676" key="search.everywhere.popup/0.25.1440.875@0.25.1440.875" timestamp="1612552649732" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
