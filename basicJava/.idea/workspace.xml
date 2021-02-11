@@ -5,28 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a13db1a-3205-4e64-b342-f5f1e45ba798" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/core/java/basic/reflect/ClassDeclarationSpy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/core/java/basic/reflect/ClassSpy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/core/java/basic/reflect/Fields/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/core/java/basic/reflect/Fields/FieldModifierSpy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/core/java/basic/reflect/Fields/FieldSpy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/core/java/basic/reflect/FieldsExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/core/java/basic/reflect/constructors/ConsoleCharset.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/core/java/basic/reflect/constructors/ConstructorAccess.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/core/java/basic/reflect/constructors/ConstructorSift.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/core/java/basic/reflect/constructors/RestoreAliases.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/core/java/basic/reflect/methods/Deet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/core/java/basic/reflect/methods/InvokeMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/core/java/basic/reflect/methods/MethodModifierSpy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/core/java/basic/reflect/methods/MethodParameterSpy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/core/java/basic/reflect/methods/MethodSpy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/charlie/ding/tools/IterateDirectoryExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/charlie/ding/tools/ParseText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/core/java/basic/annotations/FruitColor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/core/java/basic/annotations/FruitInfoUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/core/java/basic/annotations/FruitName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/core/java/basic/annotations/FruitProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/core/java/basic/annotations/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/core/java/basic/annotations/dynamicProxies/AnnotationInfoUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/core/java/basic/annotations/dynamicProxies/AnnotationInfoUtilImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/core/java/basic/annotations/dynamicProxies/AnnotationsHandle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/core/java/basic/dynamicProxies/DynamicInvocationHandler1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/core/java/basic/reflect/ReflectExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/core/java/basic/reflect/ReflectExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/core/java/basic/overrideOroverwrite/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/core/java/basic/overrideOroverwrite/A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/core/java/basic/overrideOroverwrite/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/core/java/basic/overrideOroverwrite/B.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/core/java/basic/overrideOroverwrite/C.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/core/java/basic/overrideOroverwrite/C.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/core/java/basic/overrideOroverwrite/D.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/core/java/basic/overrideOroverwrite/D.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/core/java/basic/overrideOroverwrite/TestABCD.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/core/java/basic/overrideOroverwrite/TestABCD.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/core/java/basic/reflect/ReflectExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/core/java/basic/reflect/ReflectExample.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +30,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="AnnotationType" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -67,13 +63,13 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager" selected="Application.FieldSpy (1)">
-    <configuration name="ClassDeclarationSpy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="core.java.basic.reflect.ClassDeclarationSpy" />
+  <component name="RunManager" selected="Application.TimingTrack">
+    <configuration name="DynamicInvocationHandler1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="core.java.basic.dynamicProxies.DynamicInvocationHandler1" />
       <module name="end_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="core.java.basic.reflect.*" />
+          <option name="PATTERN" value="core.java.basic.dynamicProxies.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ClassSpy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="core.java.basic.reflect.ClassSpy" />
+    <configuration name="IterateDirectoryExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.charlie.ding.tools.IterateDirectoryExample" />
       <module name="end_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="core.java.basic.reflect.*" />
+          <option name="PATTERN" value="com.charlie.ding.tools.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FieldSpy (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="core.java.basic.reflect.Fields.FieldSpy" />
+    <configuration name="ParseText" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.charlie.ding.tools.ParseText" />
       <module name="end_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="core.java.basic.reflect.Fields.*" />
+          <option name="PATTERN" value="com.charlie.ding.tools.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FieldSpy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="core.java.basic.reflect.FieldSpy" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="core.java.basic.annotations.Test" />
       <module name="end_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="core.java.basic.reflect.*" />
+          <option name="PATTERN" value="core.java.basic.annotations.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReflectExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="core.java.basic.reflect.ReflectExample" />
+    <configuration name="TimingTrack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="core.java.basic.dynamicProxies.TimingTrack" />
       <module name="end_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="core.java.basic.reflect.*" />
+          <option name="PATTERN" value="core.java.basic.dynamicProxies.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FieldSpy (1)" />
-        <item itemvalue="Application.FieldSpy" />
-        <item itemvalue="Application.ClassSpy" />
-        <item itemvalue="Application.ClassDeclarationSpy" />
-        <item itemvalue="Application.ReflectExample" />
+        <item itemvalue="Application.TimingTrack" />
+        <item itemvalue="Application.DynamicInvocationHandler1" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.IterateDirectoryExample" />
+        <item itemvalue="Application.ParseText" />
       </list>
     </recent_temporary>
   </component>
@@ -154,43 +150,77 @@
     </task>
     <servers />
   </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.js" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="449" y="290" key="#Notifications" timestamp="1612363415084">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
     <state x="449" y="290" key="#Notifications/0.25.1440.875@0.25.1440.875" timestamp="1612363415084" />
-    <state x="208" y="41" key="#Project_Structure" timestamp="1612473929545">
-      <screen x="0" y="25" width="1440" height="875" />
+    <state x="388" y="377" key="#Project_Structure" timestamp="1612987191908">
+      <screen x="0" y="25" width="2560" height="1415" />
     </state>
     <state x="208" y="41" key="#Project_Structure/0.25.1440.875@0.25.1440.875" timestamp="1612473929545" />
-    <state x="665" y="222" key="#com.intellij.ide.util.MemberChooser" timestamp="1612472642632">
-      <screen x="0" y="25" width="1440" height="875" />
+    <state x="388" y="377" key="#Project_Structure/0.25.2560.1415@0.25.2560.1415" timestamp="1612987191908" />
+    <state x="1182" y="344" key="#com.intellij.ide.util.MemberChooser" timestamp="1613004946410">
+      <screen x="0" y="25" width="2560" height="1415" />
     </state>
-    <state x="665" y="222" key="#com.intellij.ide.util.MemberChooser/0.25.1440.875@0.25.1440.875" timestamp="1612472642632" />
-    <state width="1248" height="268" key="GridCell.Tab.0.bottom" timestamp="1612558220158">
-      <screen x="0" y="25" width="1440" height="875" />
+    <state x="665" y="222" key="#com.intellij.ide.util.MemberChooser/0.25.1440.875@0.25.1440.875" timestamp="1612967864006" />
+    <state x="1182" y="344" key="#com.intellij.ide.util.MemberChooser/0.25.2560.1415@0.25.2560.1415" timestamp="1613004946410" />
+    <state width="431" height="466" key="DebuggerActiveHint" timestamp="1613002388479">
+      <screen x="0" y="25" width="2560" height="1415" />
     </state>
-    <state width="1248" height="268" key="GridCell.Tab.0.bottom/0.25.1440.875@0.25.1440.875" timestamp="1612558220158" />
-    <state width="1248" height="268" key="GridCell.Tab.0.center" timestamp="1612558220155">
-      <screen x="0" y="25" width="1440" height="875" />
+    <state width="431" height="466" key="DebuggerActiveHint/0.25.2560.1415@0.25.2560.1415" timestamp="1613002388479" />
+    <state width="1405" height="301" key="GridCell.Tab.0.bottom" timestamp="1613008675877">
+      <screen x="0" y="25" width="2560" height="1415" />
     </state>
-    <state width="1248" height="268" key="GridCell.Tab.0.center/0.25.1440.875@0.25.1440.875" timestamp="1612558220155" />
-    <state width="1248" height="268" key="GridCell.Tab.0.left" timestamp="1612558220153">
-      <screen x="0" y="25" width="1440" height="875" />
+    <state width="1248" height="268" key="GridCell.Tab.0.bottom/0.25.1440.875@0.25.1440.875" timestamp="1612578414846" />
+    <state width="1405" height="301" key="GridCell.Tab.0.bottom/0.25.2560.1415@0.25.2560.1415" timestamp="1613008675877" />
+    <state width="1405" height="301" key="GridCell.Tab.0.center" timestamp="1613008675874">
+      <screen x="0" y="25" width="2560" height="1415" />
     </state>
-    <state width="1248" height="268" key="GridCell.Tab.0.left/0.25.1440.875@0.25.1440.875" timestamp="1612558220153" />
-    <state width="1248" height="268" key="GridCell.Tab.0.right" timestamp="1612558220156">
-      <screen x="0" y="25" width="1440" height="875" />
+    <state width="1248" height="268" key="GridCell.Tab.0.center/0.25.1440.875@0.25.1440.875" timestamp="1612578414765" />
+    <state width="1405" height="301" key="GridCell.Tab.0.center/0.25.2560.1415@0.25.2560.1415" timestamp="1613008675874" />
+    <state width="1405" height="301" key="GridCell.Tab.0.left" timestamp="1613008675872">
+      <screen x="0" y="25" width="2560" height="1415" />
     </state>
-    <state width="1248" height="268" key="GridCell.Tab.0.right/0.25.1440.875@0.25.1440.875" timestamp="1612558220156" />
+    <state width="1248" height="268" key="GridCell.Tab.0.left/0.25.1440.875@0.25.1440.875" timestamp="1612578414756" />
+    <state width="1405" height="301" key="GridCell.Tab.0.left/0.25.2560.1415@0.25.2560.1415" timestamp="1613008675872" />
+    <state width="1405" height="301" key="GridCell.Tab.0.right" timestamp="1613008675876">
+      <screen x="0" y="25" width="2560" height="1415" />
+    </state>
+    <state width="1248" height="268" key="GridCell.Tab.0.right/0.25.1440.875@0.25.1440.875" timestamp="1612578414845" />
+    <state width="1405" height="301" key="GridCell.Tab.0.right/0.25.2560.1415@0.25.2560.1415" timestamp="1613008675876" />
+    <state width="1405" height="301" key="GridCell.Tab.1.bottom" timestamp="1613008675884">
+      <screen x="0" y="25" width="2560" height="1415" />
+    </state>
+    <state width="1405" height="301" key="GridCell.Tab.1.bottom/0.25.2560.1415@0.25.2560.1415" timestamp="1613008675884" />
+    <state width="1405" height="301" key="GridCell.Tab.1.center" timestamp="1613008675881">
+      <screen x="0" y="25" width="2560" height="1415" />
+    </state>
+    <state width="1405" height="301" key="GridCell.Tab.1.center/0.25.2560.1415@0.25.2560.1415" timestamp="1613008675881" />
+    <state width="1405" height="301" key="GridCell.Tab.1.left" timestamp="1613008675879">
+      <screen x="0" y="25" width="2560" height="1415" />
+    </state>
+    <state width="1405" height="301" key="GridCell.Tab.1.left/0.25.2560.1415@0.25.2560.1415" timestamp="1613008675879" />
+    <state width="1405" height="301" key="GridCell.Tab.1.right" timestamp="1613008675882">
+      <screen x="0" y="25" width="2560" height="1415" />
+    </state>
+    <state width="1405" height="301" key="GridCell.Tab.1.right/0.25.2560.1415@0.25.2560.1415" timestamp="1613008675882" />
     <state x="452" y="201" key="IDE.errors.dialog" timestamp="1612447208144">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
     <state x="452" y="201" key="IDE.errors.dialog/0.25.1440.875@0.25.1440.875" timestamp="1612447208144" />
-    <state x="207" y="98" key="SettingsEditor" timestamp="1612473945936">
-      <screen x="0" y="25" width="1440" height="875" />
+    <state x="720" y="680" key="Maven.ArtifactSearchDialog" timestamp="1612730838765">
+      <screen x="0" y="25" width="2560" height="1415" />
+    </state>
+    <state x="720" y="680" key="Maven.ArtifactSearchDialog/0.25.2560.1415@0.25.2560.1415" timestamp="1612730838765" />
+    <state x="659" y="400" key="SettingsEditor" timestamp="1612987225973">
+      <screen x="0" y="25" width="2560" height="1415" />
     </state>
     <state x="207" y="98" key="SettingsEditor/0.25.1440.875@0.25.1440.875" timestamp="1612473945936" />
+    <state x="659" y="400" key="SettingsEditor/0.25.2560.1415@0.25.2560.1415" timestamp="1612987225973" />
     <state x="590" y="196" width="540" height="524" key="StructurePopup" timestamp="1612552712916">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
@@ -212,6 +242,29 @@
           <url>file://$PROJECT_DIR$/src/main/java/core/java/basic/DataTypeForJava.java</url>
           <line>365</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/core/java/basic/dynamicProxies/DynamicInvocationHandler1.java</url>
+          <line>89</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/core/java/basic/dynamicProxies/DynamicInvocationHandler1.java</url>
+          <line>88</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/lang/reflect/Proxy.java</url>
+          <line>707</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/charlie/ding/tools/ParseText.java</url>
+          <line>43</line>
+          <properties class="com.charlie.ding.tools.ParseText">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

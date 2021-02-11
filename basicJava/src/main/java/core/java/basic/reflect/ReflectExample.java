@@ -64,7 +64,7 @@ public class ReflectExample {
         Class c = javax.swing.JButton.class.getSuperclass();
         System.out.println(c);
         Class<?>[] carr = Character.class.getClasses();
-        Arrays.stream(carr).forEach(x-> System.out.println(x));
+       // Arrays.stream(carr).forEach(x-> System.out.println(x));
         Class c1= Thread.State.class.getEnclosingClass();
 
         System.out.println(c1);
