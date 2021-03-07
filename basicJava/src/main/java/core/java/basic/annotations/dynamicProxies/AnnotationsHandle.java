@@ -20,7 +20,7 @@ public class AnnotationsHandle implements InvocationHandler {
 
 
         if(method.getName().contains("get_field_annotations")){
-            annotationsResult = object.getFieldAnnotationValue();
+//            annotationsResult = object.getFieldAnnotationValue();
         }
         return null;
     }

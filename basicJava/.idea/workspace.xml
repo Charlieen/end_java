@@ -5,22 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a13db1a-3205-4e64-b342-f5f1e45ba798" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/charlie/ding/tools/IterateDirectoryExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/charlie/ding/tools/ParseText.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/core/java/basic/annotations/FruitColor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/core/java/basic/annotations/FruitInfoUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/core/java/basic/annotations/FruitName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/core/java/basic/annotations/FruitProvider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/core/java/basic/annotations/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/core/java/basic/annotations/dynamicProxies/AnnotationInfoUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/core/java/basic/annotations/dynamicProxies/AnnotationInfoUtilImp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/core/java/basic/annotations/dynamicProxies/AnnotationsHandle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/core/java/basic/dynamicProxies/DynamicInvocationHandler1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/charlie/ding/tools/ImageUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/charlie/ding/tools/JavaYoutubeDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/charlie/ding/tools/PdfToMysql.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/charlie/ding/tools/PictureCut.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/charlie/ding/tools/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/charlie/ding/tools/YTD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/charlie/ding/tools/mysql/Connect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/charlie/ding/tools/mysql/DBHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/charlie/ding/tools/youtube/SyncPipe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/charlie/ding/tools/youtube/my_main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/core/java/basic/reflect/ReflectExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/core/java/basic/reflect/ReflectExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/core/java/basic/reflect/ReflectExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/core/java/basic/reflect/ReflectExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/charlie/ding/tools/ParseText.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/charlie/ding/tools/ParseText.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/core/java/basic/annotations/dynamicProxies/AnnotationsHandle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/core/java/basic/annotations/dynamicProxies/AnnotationsHandle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/charlie/ding/tools/ParseText.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/charlie/ding/tools/ParseText.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,27 +57,20 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/charlie/ding/tools/mysql" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager" selected="Application.TimingTrack">
-    <configuration name="DynamicInvocationHandler1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="core.java.basic.dynamicProxies.DynamicInvocationHandler1" />
-      <module name="end_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="core.java.basic.dynamicProxies.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="IterateDirectoryExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.charlie.ding.tools.IterateDirectoryExample" />
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/charlie/ding/tools/mysql" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.PdfToMysql">
+    <configuration name="ImageUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.charlie.ding.tools.ImageUtils" />
       <module name="end_java" />
       <extension name="coverage">
         <pattern>
@@ -103,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="core.java.basic.annotations.Test" />
+    <configuration name="PdfToMysql" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.charlie.ding.tools.PdfToMysql" />
       <module name="end_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="core.java.basic.annotations.*" />
+          <option name="PATTERN" value="com.charlie.ding.tools.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +108,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TimingTrack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="core.java.basic.dynamicProxies.TimingTrack" />
+    <configuration name="YTD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.charlie.ding.tools.YTD" />
       <module name="end_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="core.java.basic.dynamicProxies.*" />
+          <option name="PATTERN" value="com.charlie.ding.tools.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="my_main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.charlie.ding.tools.youtube.my_main" />
+      <module name="end_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.charlie.ding.tools.youtube.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TimingTrack" />
-        <item itemvalue="Application.DynamicInvocationHandler1" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.IterateDirectoryExample" />
+        <item itemvalue="Application.PdfToMysql" />
         <item itemvalue="Application.ParseText" />
+        <item itemvalue="Application.my_main" />
+        <item itemvalue="Application.YTD" />
+        <item itemvalue="Application.ImageUtils" />
       </list>
     </recent_temporary>
   </component>
@@ -158,56 +163,56 @@
       <screen x="0" y="25" width="1440" height="875" />
     </state>
     <state x="449" y="290" key="#Notifications/0.25.1440.875@0.25.1440.875" timestamp="1612363415084" />
-    <state x="388" y="377" key="#Project_Structure" timestamp="1612987191908">
+    <state x="388" y="377" key="#Project_Structure" timestamp="1613677955783">
       <screen x="0" y="25" width="2560" height="1415" />
     </state>
     <state x="208" y="41" key="#Project_Structure/0.25.1440.875@0.25.1440.875" timestamp="1612473929545" />
-    <state x="388" y="377" key="#Project_Structure/0.25.2560.1415@0.25.2560.1415" timestamp="1612987191908" />
+    <state x="388" y="377" key="#Project_Structure/0.25.2560.1415@0.25.2560.1415" timestamp="1613677955783" />
     <state x="1182" y="344" key="#com.intellij.ide.util.MemberChooser" timestamp="1613004946410">
       <screen x="0" y="25" width="2560" height="1415" />
     </state>
     <state x="665" y="222" key="#com.intellij.ide.util.MemberChooser/0.25.1440.875@0.25.1440.875" timestamp="1612967864006" />
     <state x="1182" y="344" key="#com.intellij.ide.util.MemberChooser/0.25.2560.1415@0.25.2560.1415" timestamp="1613004946410" />
-    <state width="431" height="466" key="DebuggerActiveHint" timestamp="1613002388479">
+    <state width="431" height="466" key="DebuggerActiveHint" timestamp="1614101341807">
       <screen x="0" y="25" width="2560" height="1415" />
     </state>
-    <state width="431" height="466" key="DebuggerActiveHint/0.25.2560.1415@0.25.2560.1415" timestamp="1613002388479" />
-    <state width="1405" height="301" key="GridCell.Tab.0.bottom" timestamp="1613008675877">
+    <state width="431" height="466" key="DebuggerActiveHint/0.25.2560.1415@0.25.2560.1415" timestamp="1614101341807" />
+    <state width="1398" height="236" key="GridCell.Tab.0.bottom" timestamp="1615075428769">
       <screen x="0" y="25" width="2560" height="1415" />
     </state>
     <state width="1248" height="268" key="GridCell.Tab.0.bottom/0.25.1440.875@0.25.1440.875" timestamp="1612578414846" />
-    <state width="1405" height="301" key="GridCell.Tab.0.bottom/0.25.2560.1415@0.25.2560.1415" timestamp="1613008675877" />
-    <state width="1405" height="301" key="GridCell.Tab.0.center" timestamp="1613008675874">
+    <state width="1398" height="236" key="GridCell.Tab.0.bottom/0.25.2560.1415@0.25.2560.1415" timestamp="1615075428769" />
+    <state width="1398" height="236" key="GridCell.Tab.0.center" timestamp="1615075428765">
       <screen x="0" y="25" width="2560" height="1415" />
     </state>
     <state width="1248" height="268" key="GridCell.Tab.0.center/0.25.1440.875@0.25.1440.875" timestamp="1612578414765" />
-    <state width="1405" height="301" key="GridCell.Tab.0.center/0.25.2560.1415@0.25.2560.1415" timestamp="1613008675874" />
-    <state width="1405" height="301" key="GridCell.Tab.0.left" timestamp="1613008675872">
+    <state width="1398" height="236" key="GridCell.Tab.0.center/0.25.2560.1415@0.25.2560.1415" timestamp="1615075428765" />
+    <state width="1398" height="236" key="GridCell.Tab.0.left" timestamp="1615075428764">
       <screen x="0" y="25" width="2560" height="1415" />
     </state>
     <state width="1248" height="268" key="GridCell.Tab.0.left/0.25.1440.875@0.25.1440.875" timestamp="1612578414756" />
-    <state width="1405" height="301" key="GridCell.Tab.0.left/0.25.2560.1415@0.25.2560.1415" timestamp="1613008675872" />
-    <state width="1405" height="301" key="GridCell.Tab.0.right" timestamp="1613008675876">
+    <state width="1398" height="236" key="GridCell.Tab.0.left/0.25.2560.1415@0.25.2560.1415" timestamp="1615075428764" />
+    <state width="1398" height="236" key="GridCell.Tab.0.right" timestamp="1615075428768">
       <screen x="0" y="25" width="2560" height="1415" />
     </state>
     <state width="1248" height="268" key="GridCell.Tab.0.right/0.25.1440.875@0.25.1440.875" timestamp="1612578414845" />
-    <state width="1405" height="301" key="GridCell.Tab.0.right/0.25.2560.1415@0.25.2560.1415" timestamp="1613008675876" />
-    <state width="1405" height="301" key="GridCell.Tab.1.bottom" timestamp="1613008675884">
+    <state width="1398" height="236" key="GridCell.Tab.0.right/0.25.2560.1415@0.25.2560.1415" timestamp="1615075428768" />
+    <state width="1391" height="352" key="GridCell.Tab.1.bottom" timestamp="1615075428741">
       <screen x="0" y="25" width="2560" height="1415" />
     </state>
-    <state width="1405" height="301" key="GridCell.Tab.1.bottom/0.25.2560.1415@0.25.2560.1415" timestamp="1613008675884" />
-    <state width="1405" height="301" key="GridCell.Tab.1.center" timestamp="1613008675881">
+    <state width="1391" height="352" key="GridCell.Tab.1.bottom/0.25.2560.1415@0.25.2560.1415" timestamp="1615075428741" />
+    <state width="1391" height="352" key="GridCell.Tab.1.center" timestamp="1615075428738">
       <screen x="0" y="25" width="2560" height="1415" />
     </state>
-    <state width="1405" height="301" key="GridCell.Tab.1.center/0.25.2560.1415@0.25.2560.1415" timestamp="1613008675881" />
-    <state width="1405" height="301" key="GridCell.Tab.1.left" timestamp="1613008675879">
+    <state width="1391" height="352" key="GridCell.Tab.1.center/0.25.2560.1415@0.25.2560.1415" timestamp="1615075428738" />
+    <state width="1391" height="352" key="GridCell.Tab.1.left" timestamp="1615075428734">
       <screen x="0" y="25" width="2560" height="1415" />
     </state>
-    <state width="1405" height="301" key="GridCell.Tab.1.left/0.25.2560.1415@0.25.2560.1415" timestamp="1613008675879" />
-    <state width="1405" height="301" key="GridCell.Tab.1.right" timestamp="1613008675882">
+    <state width="1391" height="352" key="GridCell.Tab.1.left/0.25.2560.1415@0.25.2560.1415" timestamp="1615075428734" />
+    <state width="1391" height="352" key="GridCell.Tab.1.right" timestamp="1615075428739">
       <screen x="0" y="25" width="2560" height="1415" />
     </state>
-    <state width="1405" height="301" key="GridCell.Tab.1.right/0.25.2560.1415@0.25.2560.1415" timestamp="1613008675882" />
+    <state width="1391" height="352" key="GridCell.Tab.1.right/0.25.2560.1415@0.25.2560.1415" timestamp="1615075428739" />
     <state x="452" y="201" key="IDE.errors.dialog" timestamp="1612447208144">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
@@ -258,9 +263,29 @@
           <line>707</line>
           <option name="timeStamp" value="8" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/charlie/ding/tools/PictureCut.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/charlie/ding/tools/PictureCut.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/charlie/ding/tools/PictureCut.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/charlie/ding/tools/ParseText.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/com/charlie/ding/tools/ParseText.java</url>
-          <line>43</line>
+          <line>47</line>
           <properties class="com.charlie.ding.tools.ParseText">
             <option name="EMULATED" value="true" />
           </properties>

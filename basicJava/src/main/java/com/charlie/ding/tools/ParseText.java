@@ -16,17 +16,21 @@ import org.apache.poi.xwpf.extractor.XWPFWordExtractor;
 import org.apache.poi.xwpf.usermodel.XWPFDocument;
 
 import java.io.*;
+import java.util.Arrays;
 
 
 public class ParseText {
 
     public static void main(String[] args) throws IOException {
-        String fileName="/Users/dzgygmdhx/Desktop/2021/english/zhiyuxi/geng/lianxiti.xlsx";
+        String fileName="/Users/dzgygmdhx/Desktop/ECIUA.pdf";
 
         byte[]  file=   FileUtils.readFileToByteArray(new File(fileName));
-        String context = getTextFromExcel2007(file);
+        String context = getTextFormPDF(file);
+        String [] test = context.split("\\\n");
+        Arrays.asList(test).forEach(System.out::println);
+
         context = context.replace("null","____");
-        fileName= fileName.replace(".xlsx",".txt");
+        fileName= fileName.replace(".pdf",".txt");
         writeStringToTxt(fileName,context);
 
     }
@@ -186,7 +190,7 @@ public class ParseText {
     }
 
     // 读取pdf文件全部内容 pdf
-    private static String getTextFormPDF(byte[] file) {
+    public static String getTextFormPDF(byte[] file) {
         String text = "";
         PDDocument pdfdoc = null;
         InputStream is = null;
